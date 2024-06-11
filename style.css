@@ -1,0 +1,66 @@
+.cover-container {
+    max-width: 42em;
+}
+
+.nav-masthead .nav-link + .nav-link {
+    margin-left: 1rem;
+}
+
+
+.nav-masthead .nav-link {
+    color: rgba(255, 255, 255, .5);
+    border-bottom: .25rem solid transparent;
+}
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+
+
+h1{
+    font-size: 4rem;
+    padding-top: 150px;
+    padding-bottom: 50px;;
+}
+
+.lead{
+    padding: 8px 0;
+}
+
+footer{
+    /* position: fixed; */
+    left: 0%;
+    bottom: 100%;
+    width: 100%;
+}
+
+.pic{
+    border-radius: 50%;
+    margin-top: 150px;
+    margin-bottom: 0%;
+    border: 5px double #fff;
+}
+
+
+li button a{
+   text-decoration: none; 
+   color: white;
+}
+
+.cursive{
+    padding-top: 25px;
+    font-size: 4rem;
+    margin-bottom: 20px;
+}
+
+.h2{
+    padding-top: 25px;
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+
+.leftlist{
+    text-align: left;
+}
